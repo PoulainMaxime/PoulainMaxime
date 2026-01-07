@@ -76,17 +76,6 @@ I focus on **production-grade code**, not demo-only repositories.
 
 ---
 
-## 📊 GitHub Stats (Dark Theme)
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=PoulainMaxime&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoulainMaxime&layout=compact&theme=github_dark)
-
-</div>
-
----
-
 ## 🏆 Open Source Mindset
 
 - 🔁 Regular contributor to **large-scale codebases**
