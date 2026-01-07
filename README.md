@@ -3,7 +3,7 @@
 # 👋 Hi, I'm **Maxime Poulain**  
 ### *Full-Stack Developer · PrestaShop Core Contributor*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;PrestaShop+Core+Contributor;Node.js+%7C+Vue.js+%7C+DevOps;Open-Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;PrestaShop+Core+Contributor;Node.js+%7C+NestJS+%7C+Vue+%7C+React+%7C+Next.js;Docker+%7C+CI%2FCD+%7C+Open-Source" />
 
 </div>
 
@@ -23,21 +23,21 @@
 
 💻 Full-Stack developer based in **France**  
 🏢 Working at **PrestaShop**  
-🛒 Actively contributing to the **PrestaShop Core**
+🛒 Active **PrestaShop Core contributor**
 
-I build **scalable web applications**, **developer tooling**, and **automation workflows**, with a strong focus on **code quality**, **DX**, and **open-source sustainability**.
+I build and maintain **scalable web applications**, **e-commerce core features**, and **developer tooling**, with a strong focus on **code quality**, **DX**, and **long-term maintainability**.
 
 ---
 
 ## 🛒 PrestaShop Core Contributions
 
-As part of **PrestaShop**, I:
+At **PrestaShop**, I:
 
 - 🔧 Contribute directly to the **PrestaShop Core**
-- 🧩 Work on **bug fixes**, **features**, and **performance improvements**
+- 🧩 Work on **features**, **bug fixes**, and **performance improvements**
 - 📦 Maintain & contribute to **modules**
-- 🔍 Review PRs and improve long-term maintainability
-- 🚀 Help evolve the platform used by **thousands of merchants worldwide**
+- 🔍 Review PRs and improve code quality
+- 🚀 Help evolve a platform used by **thousands of merchants worldwide**
 
 👉 https://github.com/PrestaShop
 
@@ -53,21 +53,26 @@ As part of **PrestaShop**, I:
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 
 ### Backend & Tooling
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions)
 
 ---
 
 ## 📦 What You’ll Find on My GitHub
 
-- ⚙️ **GitHub Actions** for JS build, linting & CI/CD
-- 🛒 **PrestaShop forks & modules**
-- 🧪 **TypeScript / Node.js tooling**
+- ⚙️ **GitHub Actions** (build, lint, CI/CD automation)
+- 🛒 **PrestaShop Core, modules & forks**
+- 🧪 **Node.js / NestJS / TypeScript projects**
+- 🐳 **Dockerized environments & tooling**
 - 🧩 Long-term maintained open-source projects
 
-I focus on **useful production code**, not throwaway demos.
+I focus on **production-grade code**, not demo-only repositories.
 
 ---
 
@@ -84,10 +89,10 @@ I focus on **useful production code**, not throwaway demos.
 
 ## 🏆 Open Source Mindset
 
-- 🔁 Regular contributor to **large-scale projects**
-- 🧠 Quality > quantity
-- 🧰 Tooling, automation & DX enthusiast
-- 📈 Long-term vision over short-term hype
+- 🔁 Regular contributor to **large-scale codebases**
+- 🧠 Maintainability & DX first
+- 🧰 Automation, tooling & CI/CD driven
+- 📈 Long-term impact over short-term hype
 
 ---
 
@@ -100,6 +105,6 @@ I focus on **useful production code**, not throwaway demos.
 
 <div align="center">
 
-⭐️ *If you're into PrestaShop, open-source, or developer tooling — let’s collaborate.*
+⭐️ *If you're into PrestaShop, open-source, or scalable architectures — let’s collaborate.*
 
 </div>
